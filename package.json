@@ -1,0 +1,24 @@
+{
+  "name": "auto-import-modules",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meserojs/auto-import-modules.git"
+  },
+  "author": "lijialiang@yy.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meserojs/auto-import-modules/issues"
+  },
+  "homepage": "https://github.com/meserojs/auto-import-modules#readme",
+  "dependencies": {
+    "glob": "^7.1.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
